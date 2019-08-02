@@ -1,0 +1,14 @@
+{
+  "name": "resume",
+  "version": "1.0.0",
+  "description": "Anuraag Agrawal's Resume",
+  "main": "index.js",
+  "repository": "git@github.com:anuraaga/resume.git",
+  "author": "Anuraag Agrawal <anuraaga@gmail.com>",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "jsonresume-theme-short": "^0.1.7",
+    "resume-cli": "^1.2.5"
+  }
+}

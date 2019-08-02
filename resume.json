@@ -1,0 +1,201 @@
+{
+  "basics": {
+    "name": "Anuraag Agrawal",
+    "label": "Software Engineer",
+    "picture": "",
+    "email": "anuraaga@gmail.com",
+    "phone": "+81-80-****-****",
+    "website": "",
+    "summary": "Full stack web developer that can deliver solutions from scratch to challenging problems and built out a modern engineering organization. Has a keen eye for clean, effective, and scalable designs and can simultaneously contribute code and provide technical leadership to a team. Technical interests include frontend servers, API design, and writing maximally performant software. Personal interests include education and empowering the next generation to succeed.",
+    "profiles": []
+  },
+  "work": [
+    {
+      "company": "Infostellar",
+      "position": "Chief Architect",
+      "website": "",
+      "startDate": "2017-04-01",
+      "endDate": "2019-04-30",
+      "summary": "Technical architect, engineering organization manager, and company leader. Rewrote application and created high performance infrastructure from the ground up to take it from PoC to launch. Managed the entire engineering organization, driving hiring and organizing team structure and events. Instituted and implemented practices for creating a company culture to encourage effective communication and close teams."
+    },
+    {
+      "company": "Money Design",
+      "position": "Lead Engineer",
+      "website": "",
+      "startDate": "2016-07-15",
+      "endDate": "2017-01-31",
+      "summary": "Technical architect and lead engineer. Design infrastructure from the ground up using modern technologies, establish development practices, processes, and guidelines for server-side and client-side development, and mentor new engineers to catch them up to modern development flows."
+    },
+    {
+      "company": "LINE",
+      "position": "Developer",
+      "website": "",
+      "startDate": "2015-06-01",
+      "endDate": "2016-06-30",
+      "summary": "Developer and infrastructure rebuilder of the LINE Shop product. Serve new feature API development needs while redesigning the development process and server infrastructure to catch up to best practices, touching build, deploy, monitoring, RPC, and search."
+    },
+    {
+      "company": "Google",
+      "position": "Staff Software Engineer",
+      "website": "",
+      "startDate": "2014-04-01",
+      "endDate": "2015-03-31",
+      "summary": "Technical lead and developer for frontend and API serving of desktop and mobile Google Maps. Design and lead implementation of a ground-up rewrite of the mobile maps serving architecture while providing technical leadership across both the desktop and mobile sides.",
+      "highlights": []
+    },
+    {
+      "company": "Google",
+      "position": "Senior Software Engineer",
+      "website": "",
+      "startDate": "2012-10-01",
+      "endDate": "2014-04-01",
+      "summary": "Technical lead and developer for API serving of mobile Google Maps. Designed, supervised, and implemented solutions for the serving side of all mobile Google Maps development. Owned and supervised extension of the API between client/server.",
+      "highlights": []
+    },
+    {
+      "company": "Google",
+      "position": "Senior Software Engineer",
+      "website": "",
+      "startDate": "2012-02-01",
+      "endDate": "2012-10-01",
+      "summary": "Technical lead and developer for captions support in YouTube videos. Created the team from scratch to work on both backend and frontend for caption quality and coverage improvement on YouTube. ",
+      "highlights": []
+    },
+    {
+      "company": "Google",
+      "position": "Software Engineer",
+      "website": "",
+      "startDate": "2010-04-01",
+      "endDate": "2012-01-31",
+      "summary": "Developer for YouTube search and discovery. Worked on full-stack solutions starting from search indexing, to ranking, to frontend serving, to web client.",
+      "highlights": []
+    },
+    {
+      "company": "Xhibitr",
+      "position": "CTO",
+      "website": "http://xhibitr.appspot.com",
+      "startDate": "2007-09-01",
+      "endDate": "2009-07-01",
+      "summary": "Singlehandedly developed a complex python frontend server and web client code for a photo sharing/tagging web application.",
+      "highlights": []
+    },
+    {
+      "company": "Mitsubishi UFJ Securities",
+      "position": "Summer Intern",
+      "website": "",
+      "startDate": "2008-09-01",
+      "endDate": "2008-09-12",
+      "summary": "Developer of a C++ wrapper for proprietary grid job execution, focusing on ease of grid development by hiding implementation details.",
+      "highlights": []
+    },
+    {
+      "company": "Osaka University",
+      "position": "Research Student",
+      "website": "",
+      "startDate": "2006-09-01",
+      "endDate": "2008-03-01",
+      "summary": "Developed a magic lens interface for manipulation and navigation in immersive 3D environments and supported undergraduate student in ubiquitous augmented reality research.",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Osaka University",
+      "area": "Information Systems Engineering",
+      "studyType": "MS",
+      "startDate": "2008-04-01",
+      "endDate": "2010-03-31",
+      "gpa": "",
+      "courses": []
+    },
+    {
+      "institution": "University of California, San Diego",
+      "area": "Computer Science",
+      "studyType": "BS",
+      "startDate": "2003-09-01",
+      "endDate": "2007-06-30",
+      "gpa": "",
+      "courses": []
+    }
+  ],
+  "awards": [
+    {
+      "title": "Graduate Magna Cum Laude",
+      "awarder": "University of California, San Diego",
+      "summary": ""
+    },
+    {
+      "title": "Initiate",
+      "awarder": "Phi Beta Kappa",
+      "summary": ""
+    }
+  ],
+  "publications": [
+    {
+      "name": "Large-scale 3D Scene Modeling by Registration of Laser Range Data with Google Maps Images",
+      "publisher": "International Conference on Image Processing (ICIP)",
+      "releaseDate": "2009",
+      "website": "",
+      "summary": ""
+    },
+    {
+      "name": "MMM-classification of 3D Range Data",
+      "publisher": "IEEE International Conference on Robotics and  Automation (ICRA)",
+      "releaseDate": "2009",
+      "website": "",
+      "summary": ""
+    },
+    {
+      "name": "Poster: Evaluation of an Approach for Remote Object Manipulation  Utilizing Dynamic Magnifying Lenses",
+      "publisher": "IEEE Symposium on 3D User Interfaces (3DUI)",
+      "releaseDate": "2008",
+      "website": "",
+      "summary": ""
+    }
+  ],
+  "skills": [
+    {
+      "name": "Full Stack Development",
+      "level": "Master",
+      "keywords": [
+        "Java",
+        "Google Cloud Platform",
+        "Kubernetes",
+        "API Design"
+      ]
+    },
+    {
+      "name": "Libraries",
+      "level": "Master",
+      "keywords": [
+        "Spring",
+        "Dagger",
+        "Protocol Buffers",
+        "React+Redux",
+        "Webpack"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "Japanese",
+      "fluency": "Fluent"
+    }
+  ],
+  "interests": [],
+  "references": [
+    {
+      "name": "Contact information available on request",
+      "reference": "Kaz Ishigame (Infostellar)"
+    },
+    {
+      "name": "Contact information available on request",
+      "reference": "Xinmei Cai (Google)"
+    }
+  ]
+}
