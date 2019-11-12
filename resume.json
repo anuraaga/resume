@@ -22,6 +22,13 @@
   },
   "work": [
     {
+      "company": "Open Source Projects",
+      "position": "Contributor / Maintainer",
+      "website": "",
+      "startDate": "2016-07-01",
+      "summary": "I always try to contribute where I can to open source projects and focus free time on them. Significant contributions include gRPC support for Armeria, a high performance UTF-8 direct memory decoder for protocol buffers, Elasticsearch support for Zipkin, and a full stack for easily creating a new codebase from scratch. Code is always high quality, high performance, and maintainable."
+    },
+    {
       "company": "Infostellar",
       "position": "Chief Architect",
       "website": "",
