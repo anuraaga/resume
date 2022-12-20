@@ -22,10 +22,18 @@
   },
   "work": [
     {
+      "company": "Tetrate",
+      "position": "Software Engineer",
+      "website": "",
+      "startDate": "2022-07-01",
+      "summary": "Improving the user experience for WebAssembly to solve real problems, contributing to various OSS projects in the ecosystem. Launched coraza-proxy-wasm, an Envoy WAF filter written in Go."
+    },
+    {
       "company": "Amazon Web Services",
       "position": "Senior Software Development Engineer",
       "website": "",
       "startDate": "2020-05-01",
+      "endDate": "2022-06-30",
       "summary": "Owner of OpenTelemetry both internally and in open source. Launched the OpenTelemetry Java SDK and instrumentation along with integration with AWS services. Prioritize user experience without sacrificing stability and performance, as part of a healthy OSS community."
     },
     {
