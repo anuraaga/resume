@@ -26,7 +26,7 @@
       "position": "Software Engineer",
       "website": "",
       "startDate": "2022-07-01",
-      "summary": "Improving the user experience for WebAssembly to solve real problems, contributing to various OSS projects in the ecosystem. Launched coraza-proxy-wasm, an Envoy WAF filter written in Go."
+      "summary": "Improving the user experience for WebAssembly to solve real problems, contributing to various OSS projects in the ecosystem. Launched coraza-proxy-wasm, an Envoy WAF filter written in Go. Implemented several features including a high-performance GC to allow production-level performance with TinyGo+Wasm"
     },
     {
       "company": "Amazon Web Services",
