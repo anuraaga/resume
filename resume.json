@@ -22,10 +22,18 @@
   },
   "work": [
     {
+      "company": "Various Startups",
+      "position": "Consultant",
+      "website": "",
+      "startDate": "2023-04-01",
+      "summary": "Helping small companies to scale to their next stage by providing advice and implementation of best practices in infrastructure and devops."
+    },
+    {
       "company": "Tetrate",
       "position": "Software Engineer",
       "website": "",
       "startDate": "2022-07-01",
+      "endDate": "2023-03-31",
       "summary": "Improving the user experience for WebAssembly to solve real problems, contributing to various OSS projects in the ecosystem. Launched coraza-proxy-wasm, an Envoy WAF filter written in Go. Implemented several features including a high-performance GC to allow production-level performance with TinyGo+Wasm"
     },
     {
