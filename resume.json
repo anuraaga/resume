@@ -22,11 +22,18 @@
   },
   "work": [
     {
+      "company": "Elastic",
+      "position": "Contractor",
+      "website": "",
+      "startDate": "2024-09-03",
+      "summary": "Developing instrumentation for GenAI frameworks and products such as LangChain and Kibana. Collaborating with the community on POCs for new conventions, for example by launching prototypes for MCP instrumentation in various languages."
+    },
+    {
       "company": "Various Startups",
       "position": "Consultant",
       "website": "",
       "startDate": "2023-04-01",
-      "summary": "Helping small companies to scale to their next stage by providing advice and implementation of best practices in infrastructure and devops."
+      "summary": "Helping small companies to scale to their next stage by providing advice and implementation of best practices in infrastructure and devops while members can focus on the product experience."
     },
     {
       "company": "Tetrate",
@@ -200,10 +207,10 @@
       "name": "Full Stack Development",
       "level": "Master",
       "keywords": [
-        "Java",
         "Go",
+        "Java",
         "Google Cloud Platform",
-        "Kubernetes",
+        "Observability",
         "API Design"
       ]
     },
